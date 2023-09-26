@@ -1,0 +1,6 @@
+C:\Users\Tatur\source\repos\Tyuiu.TaturinAM.Sprint0\Tyuiu.TaturinAM.Sprint0.Task1.V0\obj\Debug\Tyuiu.TaturinAM.Sprint0.Task1.V0.csproj.CoreCompileInputs.cache
+C:\Users\Tatur\source\repos\Tyuiu.TaturinAM.Sprint0\Tyuiu.TaturinAM.Sprint0.Task1.V0\bin\Debug\Tyuiu.TaturinAM.Sprint0.Task1.V0.exe.config
+C:\Users\Tatur\source\repos\Tyuiu.TaturinAM.Sprint0\Tyuiu.TaturinAM.Sprint0.Task1.V0\bin\Debug\Tyuiu.TaturinAM.Sprint0.Task1.V0.exe
+C:\Users\Tatur\source\repos\Tyuiu.TaturinAM.Sprint0\Tyuiu.TaturinAM.Sprint0.Task1.V0\bin\Debug\Tyuiu.TaturinAM.Sprint0.Task1.V0.pdb
+C:\Users\Tatur\source\repos\Tyuiu.TaturinAM.Sprint0\Tyuiu.TaturinAM.Sprint0.Task1.V0\obj\Debug\Tyuiu.TaturinAM.Sprint0.Task1.V0.exe
+C:\Users\Tatur\source\repos\Tyuiu.TaturinAM.Sprint0\Tyuiu.TaturinAM.Sprint0.Task1.V0\obj\Debug\Tyuiu.TaturinAM.Sprint0.Task1.V0.pdb
