@@ -1,0 +1,6 @@
+C:\Users\Tatur\source\repos\Tyuiu.TaturinAM.Sprint0\Tyuiu.TaturinAM.Sprint0.Task5.V0.LIb\bin\Debug\Tyuiu.TaturinAM.Sprint0.Task5.V0.LIb.dll
+C:\Users\Tatur\source\repos\Tyuiu.TaturinAM.Sprint0\Tyuiu.TaturinAM.Sprint0.Task5.V0.LIb\bin\Debug\Tyuiu.TaturinAM.Sprint0.Task5.V0.LIb.pdb
+C:\Users\Tatur\source\repos\Tyuiu.TaturinAM.Sprint0\Tyuiu.TaturinAM.Sprint0.Task5.V0.LIb\obj\Debug\Tyuiu.TaturinAM.Sprint0.Task5.V0.LIb.csproj.AssemblyReference.cache
+C:\Users\Tatur\source\repos\Tyuiu.TaturinAM.Sprint0\Tyuiu.TaturinAM.Sprint0.Task5.V0.LIb\obj\Debug\Tyuiu.TaturinAM.Sprint0.Task5.V0.LIb.csproj.CoreCompileInputs.cache
+C:\Users\Tatur\source\repos\Tyuiu.TaturinAM.Sprint0\Tyuiu.TaturinAM.Sprint0.Task5.V0.LIb\obj\Debug\Tyuiu.TaturinAM.Sprint0.Task5.V0.LIb.dll
+C:\Users\Tatur\source\repos\Tyuiu.TaturinAM.Sprint0\Tyuiu.TaturinAM.Sprint0.Task5.V0.LIb\obj\Debug\Tyuiu.TaturinAM.Sprint0.Task5.V0.LIb.pdb
